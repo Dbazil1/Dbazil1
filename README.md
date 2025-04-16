@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 - Languages: `Python`, `TypeScript`, `SQL`
-- Tools: `Next.js`, `Azure`, `Elasticsearch`, `Pinecone`
+- Tools: `Next.js`, `Azure`, `Elasticsearch`, `Pinecone`, `Supabase`, `Streamlit`
 
 ---
 
